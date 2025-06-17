@@ -1,0 +1,4 @@
+[WARNING] if your useing a Delta,Codex,Krnl You can execute this script but if your useing another executor you cant use this script , i am gonna try to fix that ASAP!!!
+thats why change your executor if your useing another executor [Executor Works Now: Delta,Codex,Krnl Executors Works RIGHT NOW]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibidiscriptyt/ESP_EGG/refs/heads/main/Esp/Egg/5VEgg%25E%25SP",true))()
